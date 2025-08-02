@@ -1,0 +1,217 @@
+ID,Text,Source,Date/Time,User ID,Location,Confidence Score
+0,I love this product!,Twitter,6/15/2023 9:23,@user123,New York,0.85
+1,The service was terrible.,Yelp Reviews,6/15/2023 11:45,user456,Los Angeles,0.65
+2,This movie is amazing!,IMDb,6/15/2023 14:10,moviefan789,London,0.92
+3,I'm so disappointed with their customer support.,Online Forum,6/15/2023 17:35,forumuser1,Toronto,0.78
+4,Just had the best meal of my life!,TripAdvisor,6/16/2023 8:50,foodie22,Paris,0.88
+5,The quality of this product is subpar.,Amazon Reviews,6/16/2023 10:15,shopper123,San Francisco,0.72
+6,I can't stop listening to this song. It's incredible!,Spotify,6/16/2023 13:40,musiclover456,Berlin,0.91
+7,Their website is so user-friendly. Love it!,Website Testimonial,6/16/2023 16:05,testimonialuser1,Sydney,0.87
+8,I loved the movie! It was fantastic!,IMDb,7/2/2023 9:12,user123,New York,0.92
+9,The customer service was terrible.,Yelp Reviews,7/2/2023 10:45,user456,Los Angeles,0.65
+10,This book made me feel inspired. Highly recommended!,Goodreads,7/2/2023 12:34,bookworm789,London,0.88
+11,I'm extremely disappointed with their product quality.,Online Store,7/2/2023 15:21,shopper789,San Francisco,0.72
+12,Just had the most amazing vacation! I can't wait to go back.,TripAdvisor,7/2/2023 18:01,travelenthusiast1,Sydney,0.93
+13,The food at this restaurant was awful. Never going back again!,Zomato,7/2/2023 20:45,foodlover123,Mumbai,0.55
+14,I can't stop listening to this song. It's my new favorite!,Spotify,7/3/2023 9:17,musiclover789,Berlin,0.91
+15,Their website is so confusing and poorly designed.,Website Review,7/3/2023 11:59,user789,Toronto,0.68
+16,I had an incredible experience at the theme park. So much fun!,Trip Report,7/3/2023 14:40,thrillseeker1,Orlando,0.89
+17,The product arrived damaged. Very disappointed.,Online Store,7/3/2023 17:25,buyer123,Chicago,0.76
+18,The concert was absolutely breathtaking. Best performance ever!,Event Review,7/3/2023 20:15,musicfan456,Paris,0.95
+19,I had a terrible experience with their customer support.,Online Chat,7/4/2023 8:32,user1234,Sydney,0.61
+20,This movie is a masterpiece! I was blown away.,IMDb,7/4/2023 14:05,cinephile789,Los Angeles,0.93
+21,The customer service at this store is top-notch.,Yelp Reviews,7/4/2023 16:35,shopper456,New York,0.82
+22,I'm disappointed with the ending of this book. It fell flat.,Goodreads,7/4/2023 19:18,booklover123,London,0.68
+23,The product I received was damaged. Unacceptable.,Online Store,7/4/2023 21:52,buyer789,San Francisco,0.75
+24,Just had the worst flight experience. Delayed and rude staff.,Airline Review,7/5/2023 9:10,traveler456,Sydney,0.57
+25,The hotel stay was absolutely amazing! Luxury at its finest.,TripAdvisor,7/5/2023 12:30,traveladdict1,Paris,0.95
+26,The food at this restaurant was outstanding. Highly recommended!,Zomato,7/5/2023 15:45,foodie789,Mumbai,0.89
+27,This playlist is my go-to for workouts. Energizing and motivating!,Spotify,7/5/2023 18:20,gymrat123,Berlin,0.91
+28,I had a frustrating experience navigating through their website.,Website Review,7/5/2023 21:05,user987,Toronto,0.67
+29,The roller coaster ride was thrilling! Heart-pounding excitement!,Theme Park Review,7/6/2023 8:48,thrillseeker2,Orlando,0.92
+30,The product I ordered never arrived. Terrible service.,Online Store,7/6/2023 11:25,customer123,Chicago,0.64
+31,I can't get enough of this band. Their music is incredible!,Music Review,7/6/2023 14:15,musiclover987,London,0.94
+32,I had a great chat with their customer support. Helpful and friendly.,Online Chat,7/6/2023 17:02,user7890,Sydney,0.85
+33,This restaurant has the most delicious food. I can't wait to go back!,TripAdvisor,7/9/2023 9:12,foodie123,Paris,0.94
+34,The product I purchased broke within a week. Poor quality.,Online Store,7/9/2023 11:45,shopper246,Los Angeles,0.61
+35,This book is thought-provoking and beautifully written. Highly recommended!,Goodreads,7/9/2023 14:23,bookworm567,London,0.89
+36,The customer service at this store is exceptional. They went above and beyond.,Retail Store,7/9/2023 17:05,shopper7890,New York,0.87
+37,I had a terrible experience with their technical support. No resolution.,Online Helpdesk,7/9/2023 19:40,user9876,San Francisco,0.63
+38,The live concert was electrifying! The band's energy was contagious.,Event Review,7/10/2023 8:50,musiclover7890,Sydney,0.92
+39,I'm disappointed with the food at this restaurant. It was tasteless.,Zomato,7/10/2023 11:32,foodcritic123,Mumbai,0.68
+40,This song always puts me in a good mood. It's my go-to feel-good track!,Spotify,7/10/2023 14:20,playlistlover456,Berlin,0.93
+41,The website is slow and unresponsive. Difficult to navigate.,Website Review,7/10/2023 17:15,user24680,Toronto,0.65
+42,The roller coaster ride was exhilarating! Pure adrenaline rush!,Theme Park Review,7/10/2023 20:02,thrillseeker789,Orlando,0.95
+43,The product I ordered arrived damaged. Very disappointed with the packaging.,Online Store,7/11/2023 8:40,buyer7890,Chicago,0.67
+44,I'm captivated by this band's unique sound. They're a breath of fresh air!,Music Review,7/11/2023 11:22,musicfan567,London,0.94
+45,The customer support was quick to respond and resolved my issue. Impressed!,Online Chat,7/11/2023 14:18,user123456,Sydney,0.85
+46,This restaurant has the best food. I highly recommend it!,Yelp Reviews,7/11/2023 17:30,foodie246,Los Angeles,0.9
+47,The plot of this movie is confusing and hard to follow.,IMDb,7/11/2023 20:15,moviegoer789,London,0.62
+48,I'm addicted to this game. It's so much fun!,Gaming Forum,7/12/2023 9:05,gamer123,New York,0.88
+49,The customer service at this hotel was terrible. Avoid at all costs.,Travel Website,7/12/2023 11:45,traveler246,Paris,0.57
+50,This book bored me to tears. I couldn't finish it.,Goodreads,7/12/2023 14:30,bookworm246,San Francisco,0.68
+51,I'm impressed with the sound quality of these headphones. Excellent!,Online Store,7/12/2023 17:10,audiophile789,Berlin,0.92
+52,The website design is sleek and user-friendly. Easy to navigate.,Website Testimonial,7/13/2023 8:50,testimonialuser2,Sydney,0.87
+53,I had a terrible experience with their delivery service. Late and unprofessional.,Online Store,7/13/2023 11:25,shopper4567,Chicago,0.64
+54,The concert was mind-blowing! The band knows how to put on a show.,Event Review,7/13/2023 14:05,musiclover1234,Paris,0.95
+55,I'm extremely disappointed with the customer support. No resolution.,Online Chat,7/13/2023 16:35,user98765,Toronto,0.61
+56,The hotel staff were rude and unprofessional. Terrible customer service.,Hotel Review,7/17/2023 8:50,traveler789,Paris,0.55
+57,The food at this restaurant was mediocre. Nothing special.,Zomato,7/17/2023 11:32,foodlover2468,Mumbai,0.65
+58,This song always puts me in a nostalgic mood. It reminds me of good times.,Spotify,7/17/2023 14:20,nostalgiacat123,Berlin,0.88
+59,The website loading speed is frustratingly slow. Needs improvement.,Website Review,7/17/2023 17:15,user12345,Toronto,0.62
+60,The food at this cafe exceeded my expectations. Absolutely delicious!,Food Blog,7/13/2023 19:18,foodlover246,Mumbai,0.92
+61,I'm disappointed with the ending of this TV show. It left too many unanswered questions.,TV Show Review,7/14/2023 8:32,tvfan123,Los Angeles,0.66
+62,This album is a masterpiece. Every song is a work of art!,Music Review,7/14/2023 11:05,musicenthusiast1,London,0.93
+63,The website layout is cluttered and confusing. Difficult to find information.,Website Review,7/14/2023 14:40,user2468,Sydney,0.67
+64,The roller coaster at this theme park is a thrilling experience. A must-try!,Theme Park Review,7/14/2023 17:25,thrillseeker3,Orlando,0.91
+65,The product I ordered never arrived. Poor customer service.,Online Store,7/15/2023 8:50,buyer1234,Chicago,0.63
+66,I'm in awe of this artist's talent. Their paintings are breathtaking!,Art Review,7/15/2023 12:30,artlover123,Paris,0.94
+67,The food at this restaurant was disappointing. Not worth the price.,Zomato,7/15/2023 15:45,foodcritic246,Mumbai,0.68
+68,This playlist is perfect for relaxation. Soothing and calming!,Spotify,7/15/2023 18:20,relaxmusiclover,Berlin,0.91
+69,The website navigation is smooth and intuitive. I found what I needed quickly.,Website Testimonial,7/15/2023 21:05,happyuser123,Toronto,0.88
+70,The ride on this cruise ship was an unforgettable experience. I loved every moment!,Travel Blog,7/16/2023 9:12,travelenthusiast2,Sydney,0.95
+71,The product I received was of poor quality. It broke after a few uses.,Online Store,7/16/2023 11:45,shopper567,Los Angeles,0.61
+72,This book kept me hooked from start to finish. A captivating read!,Goodreads,7/16/2023 14:23,bookworm7890,London,0.9
+73,The customer service at this store is outstanding. They truly care about their customers.,Retail Store,7/16/2023 17:05,happyshopper1,New York,0.92
+74,I had a frustrating experience with their technical support. No resolution provided.,Online Helpdesk,7/16/2023 19:40,user98765,San Francisco,0.67
+75,The hotel staff were rude and unprofessional. Terrible customer service.,Hotel Review,7/17/2023 8:50,traveler789,Paris,0.55
+76,The food at this restaurant was mediocre. Nothing special.,Zomato,7/17/2023 11:32,foodlover2468,Mumbai,0.65
+77,This song always puts me in a nostalgic mood. It reminds me of good times.,Spotify,7/17/2023 14:20,nostalgiacat123,Berlin,0.88
+78,The website loading speed is frustratingly slow. Needs improvement.,Website Review,7/17/2023 17:15,user12345,Toronto,0.62
+79,I love this product!,Twitter,6/15/2023 9:23,@user123,New York,0.85
+80,The service was terrible.,Yelp Reviews,6/15/2023 11:45,user456,Los Angeles,0.65
+81,This movie is amazing!,IMDb,6/15/2023 14:10,moviefan789,London,0.92
+82,I'm so disappointed with their customer support.,Online Forum,6/15/2023 17:35,forumuser1,Toronto,0.78
+83,Just had the best meal of my life!,TripAdvisor,6/16/2023 8:50,foodie22,Paris,0.88
+84,The quality of this product is subpar.,Amazon Reviews,6/16/2023 10:15,shopper123,San Francisco,0.72
+85,I can't stop listening to this song. It's incredible!,Spotify,6/16/2023 13:40,musiclover456,Berlin,0.91
+86,Their website is so user-friendly. Love it!,Website Testimonial,6/16/2023 16:05,testimonialuser1,Sydney,0.87
+87,I loved the movie! It was fantastic!,IMDb,7/2/2023 9:12,user123,New York,0.92
+88,The customer service was terrible.,Yelp Reviews,7/2/2023 10:45,user456,Los Angeles,0.65
+89,This book made me feel inspired. Highly recommended!,Goodreads,7/2/2023 12:34,bookworm789,London,0.88
+90,I'm extremely disappointed with their product quality.,Online Store,7/2/2023 15:21,shopper789,San Francisco,0.72
+91,Just had the most amazing vacation! I can't wait to go back.,TripAdvisor,7/2/2023 18:01,travelenthusiast1,Sydney,0.93
+92,The food at this restaurant was awful. Never going back again!,Zomato,7/2/2023 20:45,foodlover123,Mumbai,0.55
+93,I can't stop listening to this song. It's my new favorite!,Spotify,7/3/2023 9:17,musiclover789,Berlin,0.91
+94,Their website is so confusing and poorly designed.,Website Review,7/3/2023 11:59,user789,Toronto,0.68
+95,I had an incredible experience at the theme park. So much fun!,Trip Report,7/3/2023 14:40,thrillseeker1,Orlando,0.89
+96,Great gift idea.,Twitter,5/12/2025 9:20,brandon16,Toronto,0.91
+97,Installation was a nightmare.,Twitter,7/30/2025 6:33,connie57,Los Angeles,0.65
+98,Great gift idea.,Amazon,6/19/2025 20:27,ucarter,New York,0.87
+99,I’m blown away!,TripAdvisor,7/2/2025 18:38,wendy07,Sydney,0.82
+100,Surprisingly good for the price!,TripAdvisor,5/13/2025 9:04,gnicholson,New York,0.61
+101,I’m not satisfied with the performance.,Yelp Reviews,5/31/2025 16:27,jasonfowler,New York,0.84
+102,The colors were completely off.,Amazon,7/23/2025 8:06,reillyaaron,Cape Town,0.66
+103,User interface is clean and simple.,Online Forum,5/29/2025 7:17,haley97,Johannesburg,0.78
+104,"Absolutely fantastic quality, I'm very impressed!",IMDb,7/29/2025 3:10,joelshepherd,London,0.62
+105,Fast shipping and great support.,IMDb,7/28/2025 22:49,leahcook,Paris,0.82
+106,Loved it! Would definitely buy again.,TripAdvisor,7/24/2025 1:13,colleen50,Berlin,0.88
+107,My kids love it!,Yelp Reviews,7/31/2025 7:59,mmoore,London,0.64
+108,Very responsive team.,Online Forum,5/19/2025 14:33,rose43,Toronto,0.92
+109,Felt cheap and flimsy.,Twitter,6/17/2025 2:42,klawrence,New York,0.65
+110,Couldn’t be happier.,Online Forum,7/29/2025 0:50,parkteresa,Los Angeles,0.76
+111,"Decent, but could be better.",Twitter,5/27/2025 15:10,virginiasanders,New York,0.82
+112,This exceeded my expectations.,Online Forum,7/2/2025 12:47,kelsey08,London,0.83
+113,Felt cheap and flimsy.,Online Forum,6/2/2025 2:02,steven05,Chicago,0.84
+114,No instructions were included.,Online Forum,5/8/2025 1:35,cpatrick,Johannesburg,0.94
+115,"Was skeptical, but it works great!",Twitter,7/24/2025 2:36,virginia85,London,0.94
+116,"Absolutely fantastic quality, I'm very impressed!",Amazon,6/9/2025 13:40,michelebates,New York,0.68
+117,This exceeded my expectations.,IMDb,5/14/2025 14:56,jeremy32,Los Angeles,0.68
+118,The product broke after just one week.,Online Forum,5/25/2025 17:03,wramos,Sydney,0.61
+119,Amazing battery life.,Yelp Reviews,5/27/2025 4:24,georgeglover,New York,0.61
+120,I’m blown away!,Twitter,7/6/2025 17:29,rmiller,Cape Town,0.73
+121,Super intuitive and easy to use.,Twitter,7/24/2025 4:00,rjones,Johannesburg,0.64
+122,Horrible return policy.,Amazon,6/30/2025 12:10,merrittpatricia,Johannesburg,0.77
+123,Amazing battery life.,Amazon,6/6/2025 10:45,campbellsusan,Chicago,0.69
+124,Great gift idea.,Twitter,7/19/2025 17:26,sandramcdowell,Berlin,0.95
+125,Customer service was very helpful.,Amazon,7/24/2025 23:26,steven35,Los Angeles,0.78
+126,Terrible experience overall.,Online Forum,6/19/2025 11:29,mccluresamantha,Johannesburg,0.63
+127,"Nothing special, just average.",Twitter,5/25/2025 9:29,laura56,New York,0.68
+128,Terrible experience overall.,Amazon,6/9/2025 14:03,kathleen51,New York,0.87
+129,Very responsive team.,Online Forum,5/16/2025 16:43,hcasey,London,0.7
+130,My kids love it!,TripAdvisor,5/29/2025 13:51,twhite,New York,0.64
+131,"Decent, but could be better.",IMDb,5/30/2025 21:05,fjohnson,London,0.66
+132,My kids love it!,Amazon,6/18/2025 12:23,nbailey,Sydney,0.67
+133,"Absolutely fantastic quality, I'm very impressed!",IMDb,6/2/2025 4:00,reeserobert,London,0.7
+134,"Decent, but could be better.",Twitter,6/28/2025 7:51,frios,Johannesburg,0.93
+135,Installation was a nightmare.,Yelp Reviews,7/16/2025 12:10,grobertson,Cape Town,0.66
+136,"Absolutely fantastic quality, I'm very impressed!",IMDb,7/4/2025 20:12,xmiller,Cape Town,0.68
+137,Would not recommend to a friend.,Twitter,5/11/2025 13:02,cindy69,Toronto,0.78
+138,Amazing battery life.,Online Forum,7/3/2025 9:57,nperkins,Sydney,0.7
+139,Loved it! Would definitely buy again.,Twitter,7/28/2025 22:51,emma69,Berlin,0.69
+140,Surprisingly good for the price!,Twitter,6/30/2025 9:48,evanfields,Toronto,0.88
+141,I’m blown away!,IMDb,6/19/2025 23:55,theresaberry,Johannesburg,0.7
+142,Does exactly what it says on the box.,Amazon,6/27/2025 3:16,michael75,Toronto,0.83
+143,"Decent, but could be better.",IMDb,7/1/2025 14:26,courtneymcknight,Paris,0.79
+144,Surprisingly good for the price!,Yelp Reviews,5/24/2025 7:06,tyler89,Cape Town,0.66
+145,Overhyped and underdelivered.,Amazon,5/16/2025 19:36,vgentry,Los Angeles,0.69
+146,"Was skeptical, but it works great!",Amazon,7/3/2025 16:26,jenkinsanna,New York,0.73
+147,My kids love it!,Amazon,5/20/2025 6:21,samantha27,Chicago,0.64
+148,User interface is clean and simple.,Online Forum,5/6/2025 22:42,torresanthony,Paris,0.67
+149,Does exactly what it says on the box.,Yelp Reviews,7/3/2025 21:55,richardromero,Cape Town,0.75
+150,Does exactly what it says on the box.,Twitter,6/13/2025 7:24,scott21,Berlin,0.93
+151,My kids love it!,IMDb,7/10/2025 22:04,tholden,Los Angeles,0.62
+152,Saved me a lot of time and effort.,Yelp Reviews,7/22/2025 6:06,aherring,Cape Town,0.87
+153,Performance dropped after a few uses.,IMDb,5/6/2025 3:12,jhumphrey,Cape Town,0.81
+154,Terrible experience overall.,Amazon,7/29/2025 8:49,margaretpowell,New York,0.74
+155,Packaging was damaged when it arrived.,TripAdvisor,5/29/2025 0:18,peter09,Paris,0.78
+156,Very responsive team.,IMDb,6/19/2025 22:17,fordanita,New York,0.92
+157,Does exactly what it says on the box.,Yelp Reviews,7/3/2025 1:48,gibsoncharles,Chicago,0.74
+158,Fast shipping and great support.,Online Forum,6/27/2025 5:24,xhaynes,London,0.88
+159,Saved me a lot of time and effort.,Yelp Reviews,6/1/2025 21:32,reyeswilliam,London,0.77
+160,Packaging was damaged when it arrived.,TripAdvisor,5/31/2025 1:13,james31,Berlin,0.7
+161,Very responsive team.,Amazon,6/9/2025 13:59,ramseyeugene,Paris,0.78
+162,"Decent, but could be better.",Yelp Reviews,6/14/2025 8:12,asimmons,Los Angeles,0.84
+163,Amazing battery life.,TripAdvisor,7/19/2025 22:29,gina34,Johannesburg,0.73
+164,The colors were completely off.,Twitter,6/1/2025 15:30,amedina,Toronto,0.7
+165,Super intuitive and easy to use.,Online Forum,6/27/2025 23:00,rileyadam,London,0.8
+166,Would not recommend to a friend.,Amazon,6/3/2025 1:10,bmartin,Johannesburg,0.92
+167,Horrible return policy.,Amazon,5/31/2025 18:20,andrewharrison,Sydney,0.75
+168,No instructions were included.,Amazon,5/31/2025 12:29,johnsonkatie,Berlin,0.67
+169,User interface is clean and simple.,Twitter,5/15/2025 7:06,awhite,Johannesburg,0.84
+170,Saved me a lot of time and effort.,Twitter,5/6/2025 19:21,odiaz,London,0.69
+171,Would not recommend to a friend.,Online Forum,7/29/2025 1:30,oserrano,Toronto,0.75
+172,Better than expected.,Online Forum,5/14/2025 22:10,lesliemiddleton,Toronto,0.88
+173,Terrible experience overall.,Online Forum,5/28/2025 13:44,melissacook,Toronto,0.86
+174,Terrible experience overall.,Amazon,5/15/2025 22:06,jessicarodriguez,London,0.63
+175,Would not recommend to a friend.,TripAdvisor,6/17/2025 20:11,margaret04,Chicago,0.79
+176,Not worth the money at all.,Amazon,7/22/2025 15:17,mcooper,Sydney,0.68
+177,No instructions were included.,TripAdvisor,5/30/2025 23:35,dana22,Chicago,0.76
+178,Horrible return policy.,Online Forum,5/25/2025 9:45,joseph66,Berlin,0.84
+179,Packaging was damaged when it arrived.,Online Forum,6/4/2025 12:36,daniel94,Johannesburg,0.9
+180,The product broke after just one week.,Online Forum,7/8/2025 21:40,taylorlynn,Paris,0.89
+181,Surprisingly good for the price!,IMDb,5/21/2025 22:24,ablackburn,Johannesburg,0.61
+182,"Absolutely fantastic quality, I'm very impressed!",Twitter,5/9/2025 12:57,deborah12,Chicago,0.92
+183,Very responsive team.,TripAdvisor,6/15/2025 19:39,morgan20,London,0.6
+184,Performance dropped after a few uses.,TripAdvisor,6/30/2025 0:49,mgibbs,New York,0.64
+185,Fast shipping and great support.,IMDb,5/5/2025 11:29,tinabrooks,Sydney,0.82
+186,Terrible experience overall.,Yelp Reviews,7/12/2025 17:22,denise53,Sydney,0.9
+187,Would not recommend to a friend.,TripAdvisor,7/20/2025 20:13,gwebb,Toronto,0.91
+188,Installation was a nightmare.,TripAdvisor,5/10/2025 9:13,jaredmurphy,New York,0.94
+189,"Absolutely fantastic quality, I'm very impressed!",Yelp Reviews,6/2/2025 7:34,davidbrown,Berlin,0.63
+190,Would not recommend to a friend.,IMDb,6/4/2025 1:02,davispenny,Toronto,0.71
+191,Super intuitive and easy to use.,Amazon,6/14/2025 5:32,michaeljohnson,Cape Town,0.61
+192,Fast shipping and great support.,IMDb,5/21/2025 4:43,watkinsmatthew,London,0.72
+193,"Nothing special, just average.",Twitter,6/29/2025 6:04,ocollins,Johannesburg,0.74
+194,No instructions were included.,Twitter,7/15/2025 12:09,dsmith,Paris,0.65
+195,Horrible return policy.,Twitter,5/12/2025 2:10,jamesdorsey,Chicago,0.83
+196,Solid purchase. Works as advertised.,IMDb,6/23/2025 12:14,denise38,Paris,0.69
+197,I’m blown away!,Online Forum,7/30/2025 9:58,annaneal,Berlin,0.75
+198,Does exactly what it says on the box.,Twitter,7/28/2025 7:05,parsonselizabeth,Los Angeles,0.87
+200,Works like a charm. Highly recommend.,Amazon Reviews,6/27/2025 14:32,shopper001,London,0.91
+201,Cheaply made and unreliable.,Online Store,7/14/2025 9:18,reviewer555,New York,0.63
+202,"Amazing product, exceeded my expectations!",Facebook,6/22/2025 11:45,techfan_88,Sydney,0.89
+203,Terrible support and poor performance.,Customer Survey,7/1/2025 16:08,customer101,Chicago,0.66
+204,I'm genuinely impressed with the quality.,Product Feedback Form,7/19/2025 12:22,verified_user,Berlin,0.92
+205,Stopped working after a week.,Reddit,6/30/2025 8:33,buyer_xyz,Mumbai,0.59
+206,It's perfect for daily use. Worth every penny.,Instagram,7/10/2025 13:27,feedbackbot,San Francisco,0.88
+207,Waste of money. Avoid!,Tech Forum,6/25/2025 18:45,user234,Tokyo,0.55
+208,Exactly what I needed. Reliable and sleek.,Twitter,7/20/2025 15:10,happybuyer77,Paris,0.9
+209,Doesn't live up to the hype.,Online Store,7/13/2025 7:48,shopper001,Toronto,0.62
+210,Very pleased. Would buy again.,Retail Store,6/24/2025 10:55,guest123,London,0.87
+211,Wouldn't recommend. Flawed design.,Amazon Reviews,7/2/2025 17:39,reviewer555,Sydney,0.67
+212,Love it! Great value and performance.,Facebook,7/12/2025 19:25,customer101,Mumbai,0.93
+213,Pretty disappointed. Not as advertised.,Customer Survey,7/17/2025 8:11,techfan_88,New York,0.7
+214,Fast delivery and solid build quality.,Product Feedback Form,7/8/2025 14:59,buyer_xyz,Paris,0.9
+215,Excellent packaging and timely arrival.,Online Store,7/3/2025 11:22,verified_user,Toronto,0.86
+216,Broken on arrival.,Reddit,7/12/2025 09:57,user234,Chicago,0.58
