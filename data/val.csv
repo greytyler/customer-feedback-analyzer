@@ -1,0 +1,45 @@
+Text,comprehend_sentiment,label
+Great gift idea.,POSITIVE,1
+Surprisingly good for the price!,POSITIVE,1
+Very pleased. Would buy again.,POSITIVE,1
+"Nothing special, just average.",NEGATIVE,0
+This book made me feel inspired. Highly recommended!,POSITIVE,1
+Their website is so user-friendly. Love it!,POSITIVE,1
+Terrible support and poor performance.,NEGATIVE,0
+This restaurant has the best food. I highly recommend it!,POSITIVE,1
+This album is a masterpiece. Every song is a work of art!,POSITIVE,1
+Horrible return policy.,NEGATIVE,0
+The customer service at this hotel was terrible. Avoid at all costs.,NEGATIVE,0
+Amazing battery life.,POSITIVE,1
+User interface is clean and simple.,POSITIVE,1
+Packaging was damaged when it arrived.,NEGATIVE,0
+This book kept me hooked from start to finish. A captivating read!,POSITIVE,1
+Performance dropped after a few uses.,NEGATIVE,0
+The quality of this product is subpar.,NEGATIVE,0
+Loved it! Would definitely buy again.,POSITIVE,1
+Solid purchase. Works as advertised.,POSITIVE,1
+The product I purchased broke within a week. Poor quality.,NEGATIVE,0
+The live concert was electrifying! The band's energy was contagious.,POSITIVE,1
+I'm extremely disappointed with the customer support. No resolution.,NEGATIVE,0
+Terrible experience overall.,NEGATIVE,0
+Cheaply made and unreliable.,NEGATIVE,0
+Horrible return policy.,NEGATIVE,0
+Very responsive team.,POSITIVE,1
+Excellent packaging and timely arrival.,POSITIVE,1
+This movie is a masterpiece! I was blown away.,POSITIVE,1
+Installation was a nightmare.,NEGATIVE,0
+Just had the most amazing vacation! I can't wait to go back.,POSITIVE,1
+Fast shipping and great support.,POSITIVE,1
+Their website is so user-friendly. Love it!,POSITIVE,1
+This song always puts me in a nostalgic mood. It reminds me of good times.,POSITIVE,1
+Super intuitive and easy to use.,POSITIVE,1
+I'm so disappointed with their customer support.,NEGATIVE,0
+The product I ordered never arrived. Poor customer service.,NEGATIVE,0
+This book bored me to tears. I couldn't finish it.,NEGATIVE,0
+Does exactly what it says on the box.,POSITIVE,1
+The concert was absolutely breathtaking. Best performance ever!,POSITIVE,1
+Packaging was damaged when it arrived.,NEGATIVE,0
+I'm so disappointed with their customer support.,NEGATIVE,0
+I love this product!,POSITIVE,1
+"Decent, but could be better.",MIXED,2
+The food at this cafe exceeded my expectations. Absolutely delicious!,POSITIVE,1

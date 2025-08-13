@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter and SageMaker artifacts
+.ipynb_checkpoints/
+*.tar.gz
+*.log
+
+# AWS credentials (if any)
+.aws/
+*.pem
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store

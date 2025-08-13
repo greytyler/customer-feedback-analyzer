@@ -9,7 +9,7 @@ comprehend = boto3.client('comprehend', region_name='us-east-1')
 with open('reviews.csv', newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
-        review = row.get('review_text') or row.get('Review Text')  # Handle different column headers
+        review = row.get('text') or row.get('Text')  # Handle different column headers
         if review and review.strip():
             response = comprehend.detect_sentiment(Text=review, LanguageCode='en')
             print(f"\nReview: {review}\nSentiment: {response['Sentiment']}\n")
@@ -22,7 +22,7 @@ with open('classified_reviews.csv', 'w', newline='', encoding='utf-8') as csvfil
     with open('reviews.csv', newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            review = row.get('review_text') or row.get('Review Text')
+            review = row.get('text') or row.get('Text')
             if review and review.strip():
                 response = comprehend.detect_sentiment(Text=review, LanguageCode='en')
                 writer.writerow({'Review': review, 'Sentiment': response['Sentiment']})
