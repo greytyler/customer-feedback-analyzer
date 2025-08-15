@@ -1,173 +1,260 @@
 Text,comprehend_sentiment,label
-The service was terrible.,NEGATIVE,0
-My kids love it!,POSITIVE,1
-User interface is clean and simple.,POSITIVE,1
-I had a frustrating experience navigating through their website.,NEGATIVE,0
-Broken on arrival.,NEGATIVE,0
-Does exactly what it says on the box.,POSITIVE,1
-Their website is so confusing and poorly designed.,NEGATIVE,0
-Surprisingly good for the price!,POSITIVE,1
-I'm impressed with the sound quality of these headphones. Excellent!,POSITIVE,1
-Terrible experience overall.,NEGATIVE,0
-I had a frustrating experience with their technical support. No resolution provided.,NEGATIVE,0
-The roller coaster ride was exhilarating! Pure adrenaline rush!,POSITIVE,1
-The website loading speed is frustratingly slow. Needs improvement.,NEGATIVE,0
-Pretty disappointed. Not as advertised.,NEGATIVE,0
-Just had the best meal of my life!,POSITIVE,1
-"Decent, but could be better.",MIXED,2
-"Absolutely fantastic quality, I'm very impressed!",POSITIVE,1
-I can't stop listening to this song. It's incredible!,POSITIVE,1
-My kids love it!,POSITIVE,1
-Overhyped and underdelivered.,NEGATIVE,0
-Stopped working after a week.,NEGATIVE,0
-Would not recommend to a friend.,NEGATIVE,0
-I’m not satisfied with the performance.,NEGATIVE,0
-"Absolutely fantastic quality, I'm very impressed!",POSITIVE,1
-I'm extremely disappointed with their product quality.,NEGATIVE,0
-No instructions were included.,NEGATIVE,0
-"Decent, but could be better.",MIXED,2
-This movie is amazing!,POSITIVE,1
-I'm extremely disappointed with their product quality.,NEGATIVE,0
-This book made me feel inspired. Highly recommended!,POSITIVE,1
-Works like a charm. Highly recommend.,POSITIVE,1
-Just had the worst flight experience. Delayed and rude staff.,NEGATIVE,0
-The quality of this product is subpar.,NEGATIVE,0
-Fast shipping and great support.,POSITIVE,1
-"Absolutely fantastic quality, I'm very impressed!",POSITIVE,1
-The food at this restaurant was outstanding. Highly recommended!,POSITIVE,1
-Customer service was very helpful.,POSITIVE,1
-The hotel staff were rude and unprofessional. Terrible customer service.,NEGATIVE,0
-The service was terrible.,NEGATIVE,0
-Packaging was damaged when it arrived.,NEGATIVE,0
-Better than expected.,POSITIVE,1
-"Absolutely fantastic quality, I'm very impressed!",POSITIVE,1
-Super intuitive and easy to use.,POSITIVE,1
-Just had the best meal of my life!,POSITIVE,1
-"Was skeptical, but it works great!",POSITIVE,1
-Would not recommend to a friend.,NEGATIVE,0
-Would not recommend to a friend.,NEGATIVE,0
-Amazing battery life.,POSITIVE,1
-Fast shipping and great support.,POSITIVE,1
-Installation was a nightmare.,NEGATIVE,0
-I'm disappointed with the ending of this book. It fell flat.,NEGATIVE,0
-This playlist is my go-to for workouts. Energizing and motivating!,POSITIVE,1
-This exceeded my expectations.,POSITIVE,1
-The colors were completely off.,NEGATIVE,0
-Saved me a lot of time and effort.,POSITIVE,1
-Very responsive team.,POSITIVE,1
-My kids love it!,POSITIVE,1
-I had an incredible experience at the theme park. So much fun!,POSITIVE,1
-The website loading speed is frustratingly slow. Needs improvement.,NEGATIVE,0
-Their website is so confusing and poorly designed.,NEGATIVE,0
-The product I ordered never arrived. Terrible service.,NEGATIVE,0
-The product I received was of poor quality. It broke after a few uses.,NEGATIVE,0
-Amazing battery life.,POSITIVE,1
-Great gift idea.,POSITIVE,1
-The food at this restaurant was mediocre. Nothing special.,NEGATIVE,0
-The ride on this cruise ship was an unforgettable experience. I loved every moment!,POSITIVE,1
-The website is slow and unresponsive. Difficult to navigate.,NEGATIVE,0
-Very responsive team.,POSITIVE,1
-"Amazing product, exceeded my expectations!",POSITIVE,1
-No instructions were included.,NEGATIVE,0
-The product broke after just one week.,NEGATIVE,0
-I'm addicted to this game. It's so much fun!,POSITIVE,1
-This song always puts me in a good mood. It's my go-to feel-good track!,POSITIVE,1
-Exactly what I needed. Reliable and sleek.,POSITIVE,1
-I had a terrible experience with their technical support. No resolution.,NEGATIVE,0
-Terrible experience overall.,NEGATIVE,0
-"Was skeptical, but it works great!",POSITIVE,1
-I love this product!,POSITIVE,1
-Does exactly what it says on the box.,POSITIVE,1
-Terrible experience overall.,NEGATIVE,0
-Saved me a lot of time and effort.,POSITIVE,1
-I’m blown away!,POSITIVE,1
-I had a terrible experience with their customer support.,NEGATIVE,0
-I'm genuinely impressed with the quality.,POSITIVE,1
-Terrible experience overall.,NEGATIVE,0
-Not worth the money at all.,NEGATIVE,0
-I loved the movie! It was fantastic!,POSITIVE,1
-Installation was a nightmare.,NEGATIVE,0
-I’m blown away!,POSITIVE,1
-I’m blown away!,POSITIVE,1
-This exceeded my expectations.,POSITIVE,1
-The product I ordered arrived damaged. Very disappointed with the packaging.,NEGATIVE,0
-Terrible experience overall.,NEGATIVE,0
-This song always puts me in a nostalgic mood. It reminds me of good times.,POSITIVE,1
-Would not recommend to a friend.,NEGATIVE,0
-Would not recommend to a friend.,NEGATIVE,0
-This movie is amazing!,POSITIVE,1
-The product broke after just one week.,NEGATIVE,0
-Doesn't live up to the hype.,NEGATIVE,0
-Very responsive team.,POSITIVE,1
-"Decent, but could be better.",MIXED,2
-The customer service at this store is outstanding. They truly care about their customers.,POSITIVE,1
-Does exactly what it says on the box.,POSITIVE,1
-I'm disappointed with the ending of this TV show. It left too many unanswered questions.,NEGATIVE,0
-Felt cheap and flimsy.,NEGATIVE,0
-I can't get enough of this band. Their music is incredible!,POSITIVE,1
-Felt cheap and flimsy.,NEGATIVE,0
-Surprisingly good for the price!,POSITIVE,1
-The food at this restaurant was awful. Never going back again!,NEGATIVE,0
 I can't stop listening to this song. It's my new favorite!,POSITIVE,1
+The food at this restaurant was awful. Never going back again!,NEGATIVE,0
+Does exactly what it says on the box.,POSITIVE,1
+The plot of this movie is confusing and hard to follow.,NEGATIVE,0
+"Waste of money, would not buy again.",NEGATIVE,0
+This movie is amazing!,POSITIVE,1
+"The app interface is clean, but it crashes often.",MIXED,2
+Would not recommend to a friend.,NEGATIVE,0
+This playlist is my go-to for workouts. Energizing and motivating!,POSITIVE,1
+"Friendly locals, but rainy weather.",MIXED,2
+The food at this restaurant was mediocre. Nothing special.,NEGATIVE,0
+I can't stop listening to this song. It's my new favorite!,POSITIVE,1
+The food at this restaurant was outstanding. Highly recommended!,POSITIVE,1
 I’m blown away!,POSITIVE,1
-The website layout is cluttered and confusing. Difficult to find information.,NEGATIVE,0
+The website loading speed is frustratingly slow. Needs improvement.,NEGATIVE,0
+This book made me feel inspired. Highly recommended!,POSITIVE,1
+I'm disappointed with the ending of this book. It fell flat.,NEGATIVE,0
+The customer service at this store is outstanding. They truly care about their customers.,POSITIVE,1
+The customer service at this store is exceptional. They went above and beyond.,POSITIVE,1
+Very responsive team.,POSITIVE,1
+Waste of money. Avoid!,NEGATIVE,0
+This movie is amazing!,POSITIVE,1
+Horrible return policy.,NEGATIVE,0
+"Comfortable seating, but the air conditioning was too strong.",MIXED,2
+The website loading speed is frustratingly slow. Needs improvement.,NEGATIVE,0
+I had a frustrating experience with their technical support. No resolution provided.,NEGATIVE,0
+"Quick service, but the food was cold.",MIXED,2
+I’m blown away!,POSITIVE,1
+"Friendly locals, but the city was expensive.",MIXED,2
+No instructions were included.,NEGATIVE,0
+The product I received was damaged. Unacceptable.,NEGATIVE,0
+"Smooth trains, but expensive tickets.",MIXED,2
+The product arrived damaged. Very disappointed.,NEGATIVE,0
+The product broke after just one week.,NEGATIVE,0
+"Fresh beer, but limited snacks.",MIXED,2
+Their website is so confusing and poorly designed.,NEGATIVE,0
+The product I received was of poor quality. It broke after a few uses.,NEGATIVE,0
+"Helpful staff, but outdated rooms.",MIXED,2
+No instructions were included.,NEGATIVE,0
+Saved me a lot of time and effort.,POSITIVE,1
+I’m blown away!,POSITIVE,1
+I loved the movie! It was fantastic!,POSITIVE,1
+The quality exceeded my expectations.,POSITIVE,1
+"Great taste, but the portion size is too small.",MIXED,2
+Just had the most amazing vacation! I can't wait to go back.,POSITIVE,1
+Does exactly what it says on the box.,POSITIVE,1
+"The coffee was rich, but too bitter for my taste.",MIXED,2
+Loved it! Would definitely buy again.,POSITIVE,1
 "Absolutely fantastic quality, I'm very impressed!",POSITIVE,1
-The hotel staff were rude and unprofessional. Terrible customer service.,NEGATIVE,0
-The website navigation is smooth and intuitive. I found what I needed quickly.,POSITIVE,1
-I had a great chat with their customer support. Helpful and friendly.,POSITIVE,1
+Performance dropped after a few uses.,NEGATIVE,0
+"The product works well, but shipping took too long.",MIXED,2
+Terrible service and unhelpful staff.,NEGATIVE,0
 The roller coaster at this theme park is a thrilling experience. A must-try!,POSITIVE,1
 My kids love it!,POSITIVE,1
-This book is thought-provoking and beautifully written. Highly recommended!,POSITIVE,1
-The customer support was quick to respond and resolved my issue. Impressed!,POSITIVE,1
 "Decent, but could be better.",MIXED,2
-I'm disappointed with the food at this restaurant. It was tasteless.,NEGATIVE,0
-Waste of money. Avoid!,NEGATIVE,0
-The concert was mind-blowing! The band knows how to put on a show.,POSITIVE,1
-"Absolutely fantastic quality, I'm very impressed!",POSITIVE,1
-I'm in awe of this artist's talent. Their paintings are breathtaking!,POSITIVE,1
-My kids love it!,POSITIVE,1
-The food at this restaurant was awful. Never going back again!,NEGATIVE,0
-Great gift idea.,POSITIVE,1
-No instructions were included.,NEGATIVE,0
-The customer service at this store is exceptional. They went above and beyond.,POSITIVE,1
-Amazing battery life.,POSITIVE,1
-The product I received was damaged. Unacceptable.,NEGATIVE,0
+I'm disappointed with the ending of this TV show. It left too many unanswered questions.,NEGATIVE,0
+"Romantic atmosphere, but slow meal service.",MIXED,2
+I can't get enough of this band. Their music is incredible!,POSITIVE,1
+Packaging was damaged when it arrived.,NEGATIVE,0
 The colors were completely off.,NEGATIVE,0
-The customer service was terrible.,NEGATIVE,0
-I can't stop listening to this song. It's my new favorite!,POSITIVE,1
-I had a terrible experience with their delivery service. Late and unprofessional.,NEGATIVE,0
-Love it! Great value and performance.,POSITIVE,1
-Horrible return policy.,NEGATIVE,0
-Saved me a lot of time and effort.,POSITIVE,1
-The hotel stay was absolutely amazing! Luxury at its finest.,POSITIVE,1
-The customer service was terrible.,NEGATIVE,0
-Couldn’t be happier.,POSITIVE,1
-The plot of this movie is confusing and hard to follow.,NEGATIVE,0
-Horrible return policy.,NEGATIVE,0
-I had an incredible experience at the theme park. So much fun!,POSITIVE,1
-Super intuitive and easy to use.,POSITIVE,1
-This playlist is perfect for relaxation. Soothing and calming!,POSITIVE,1
-The product arrived damaged. Very disappointed.,NEGATIVE,0
-I loved the movie! It was fantastic!,POSITIVE,1
-Wouldn't recommend. Flawed design.,NEGATIVE,0
-The website design is sleek and user-friendly. Easy to navigate.,POSITIVE,1
-Fast delivery and solid build quality.,POSITIVE,1
-Fast shipping and great support.,POSITIVE,1
 Does exactly what it says on the box.,POSITIVE,1
-It's perfect for daily use. Worth every penny.,POSITIVE,1
-Just had the most amazing vacation! I can't wait to go back.,POSITIVE,1
+Extremely frustrating experience.,NEGATIVE,0
+Terrible experience overall.,NEGATIVE,0
+"The tour guide was knowledgeable, but the bus was uncomfortable.",MIXED,2
+"Historic charm, but limited accessibility.",MIXED,2
+"Clean station, but confusing signage.",MIXED,2
+This song always puts me in a good mood. It's my go-to feel-good track!,POSITIVE,1
+Packaging was damaged when it arrived.,NEGATIVE,0
+"Lovely garden, but the room was noisy.",MIXED,2
+"Luxury feel, but poor Wi-Fi.",MIXED,2
+"Customer support was nice, but they couldn’t solve my issue.",MIXED,2
 Would not recommend to a friend.,NEGATIVE,0
-Loved it! Would definitely buy again.,POSITIVE,1
-Performance dropped after a few uses.,NEGATIVE,0
-User interface is clean and simple.,POSITIVE,1
-I'm captivated by this band's unique sound. They're a breath of fresh air!,POSITIVE,1
-Very responsive team.,POSITIVE,1
-The customer service at this store is top-notch.,POSITIVE,1
-The roller coaster ride was thrilling! Heart-pounding excitement!,POSITIVE,1
+The roller coaster ride was exhilarating! Pure adrenaline rush!,POSITIVE,1
+This exceeded my expectations.,POSITIVE,1
+I'm extremely disappointed with their product quality.,NEGATIVE,0
+"Loved the acting, but the plot felt predictable.",MIXED,2
+"Clean rooms, but very small.",MIXED,2
+"Trendy shops, but overpriced items.",MIXED,2
 Surprisingly good for the price!,POSITIVE,1
-"Nothing special, just average.",NEGATIVE,0
-The food at this restaurant was disappointing. Not worth the price.,NEGATIVE,0
-The food at this restaurant was mediocre. Nothing special.,NEGATIVE,0
+"Absolutely fantastic quality, I'm very impressed!",POSITIVE,1
+The website navigation is smooth and intuitive. I found what I needed quickly.,POSITIVE,1
+"Nice beachfront, but loud music at night.",MIXED,2
+I'm captivated by this band's unique sound. They're a breath of fresh air!,POSITIVE,1
+"The event was fun, but poorly organized.",MIXED,2
+"Good selection, but some items were out of stock.",MIXED,2
+Very responsive team.,POSITIVE,1
+The service was terrible.,NEGATIVE,0
+Great gift idea.,POSITIVE,1
+The website layout is cluttered and confusing. Difficult to find information.,NEGATIVE,0
+"Authentic dishes, but slow service.",MIXED,2
+Everything was perfect from start to finish.,POSITIVE,1
+"Comfortable bed, but flat pillows.",MIXED,2
+"The room was spacious, but the bed was uncomfortable.",MIXED,2
+I'm impressed with the sound quality of these headphones. Excellent!,POSITIVE,1
+Surprisingly good for the price!,POSITIVE,1
+The roller coaster ride was thrilling! Heart-pounding excitement!,POSITIVE,1
+Fast shipping and great support.,POSITIVE,1
+"Efficient transport, but high prices.",MIXED,2
+"Great coffee, but the seating area is cramped.",MIXED,2
+The concert was mind-blowing! The band knows how to put on a show.,POSITIVE,1
+"Beautiful architecture, but crowded streets.",MIXED,2
+Does exactly what it says on the box.,POSITIVE,1
+"Waste of money, would not buy again.",NEGATIVE,0
+Just had the worst flight experience. Delayed and rude staff.,NEGATIVE,0
+"Stunning view, but the hike was exhausting.",MIXED,2
+"Great cinematography, but the dialogue felt flat.",MIXED,2
+My kids love it!,POSITIVE,1
 I can't stop listening to this song. It's incredible!,POSITIVE,1
-This restaurant has the most delicious food. I can't wait to go back!,POSITIVE,1
+"Good beer selection, but limited seating.",MIXED,2
+"Trendy cafes, but very crowded.",MIXED,2
+Terrible experience overall.,NEGATIVE,0
+"Rich history, but too many tourists.",MIXED,2
+"Spicy dishes, but small portions.",MIXED,2
 No instructions were included.,NEGATIVE,0
+"Waste of money, would not buy again.",NEGATIVE,0
+"The service was friendly, but the prices are too high.",MIXED,2
+Horrible return policy.,NEGATIVE,0
+Super intuitive and easy to use.,POSITIVE,1
+I’m very disappointed with this purchase.,NEGATIVE,0
+I'm extremely disappointed with their product quality.,NEGATIVE,0
+Fast shipping and great support.,POSITIVE,1
+The concert was absolutely breathtaking. Best performance ever!,POSITIVE,1
+I'm addicted to this game. It's so much fun!,POSITIVE,1
+"The park was peaceful, but lacked shade.",MIXED,2
+Amazing battery life.,POSITIVE,1
+Terrible experience overall.,NEGATIVE,0
+Amazing battery life.,POSITIVE,1
+Great gift idea.,POSITIVE,1
+Saved me a lot of time and effort.,POSITIVE,1
+Broken on arrival.,NEGATIVE,0
+Would not recommend to a friend.,NEGATIVE,0
+Very responsive team.,POSITIVE,1
+This restaurant has the most delicious food. I can't wait to go back!,POSITIVE,1
+My kids love it!,POSITIVE,1
+"Delicious meal, but the service was a bit slow.",MIXED,2
+Would not recommend to a friend.,NEGATIVE,0
+Installation was a nightmare.,NEGATIVE,0
+"Charming gondola ride, but overpriced.",MIXED,2
+It's perfect for daily use. Worth every penny.,POSITIVE,1
+The hotel stay was absolutely amazing! Luxury at its finest.,POSITIVE,1
+"Delicious tapas, but the portions were small.",MIXED,2
+Pretty disappointed. Not as advertised.,NEGATIVE,0
+"Friendly staff, but the room was noisy.",MIXED,2
+I had an incredible experience at the theme park. So much fun!,POSITIVE,1
+I loved the movie! It was fantastic!,POSITIVE,1
+This exceeded my expectations.,POSITIVE,1
+"Decent, but could be better.",MIXED,2
+"Artistic city, but expensive museums.",MIXED,2
+"Rich flavors, but oily dishes.",MIXED,2
+"Good workout equipment, but the music was too loud.",MIXED,2
+The website is slow and unresponsive. Difficult to navigate.,NEGATIVE,0
+Installation was a nightmare.,NEGATIVE,0
+"Tasty food, but overpriced for the portion size.",MIXED,2
+The food at this restaurant was mediocre. Nothing special.,NEGATIVE,0
+Just had the best meal of my life!,POSITIVE,1
+"Bright mall, but very crowded.",MIXED,2
+I’m blown away!,POSITIVE,1
+"Fresh ingredients, but overpriced menu.",MIXED,2
+"Absolutely fantastic quality, I'm very impressed!",POSITIVE,1
+"Waste of money, would not buy again.",NEGATIVE,0
+Fast delivery and solid build quality.,POSITIVE,1
+"Tasty pizza, but small dining area.",MIXED,2
+The quality of this product is subpar.,NEGATIVE,0
+"Efficient trains, but high ticket cost.",MIXED,2
+The website design is sleek and user-friendly. Easy to navigate.,POSITIVE,1
+"Lively nightlife, but pickpocket concerns.",MIXED,2
+I’m not satisfied with the performance.,NEGATIVE,0
+Would not recommend to a friend.,NEGATIVE,0
+"Affordable prices, though quality could be better.",MIXED,2
+Excellent packaging and timely arrival.,POSITIVE,1
+"High quality, but limited options.",MIXED,2
+"Love the design, but it's not very durable.",MIXED,2
+"Was skeptical, but it works great!",POSITIVE,1
+Customer service was very helpful.,POSITIVE,1
+Installation was a nightmare.,NEGATIVE,0
+"Nice view, but the food was bland.",MIXED,2
+The customer service was terrible.,NEGATIVE,0
+"Scenic drive, but heavy traffic.",MIXED,2
+"Live music, but uncomfortable chairs.",MIXED,2
+Felt cheap and flimsy.,NEGATIVE,0
+I had a great chat with their customer support. Helpful and friendly.,POSITIVE,1
+Surprisingly good for the price!,POSITIVE,1
+User interface is clean and simple.,POSITIVE,1
+The ride on this cruise ship was an unforgettable experience. I loved every moment!,POSITIVE,1
+Very responsive team.,POSITIVE,1
+Absolutely loved it! Will recommend to everyone.,POSITIVE,1
+Their website is so confusing and poorly designed.,NEGATIVE,0
+Terrible experience overall.,NEGATIVE,0
+The product broke after just one week.,NEGATIVE,0
+"Such a pleasant experience, I’ll be coming back for sure.",POSITIVE,1
+The colors were completely off.,NEGATIVE,0
+"Nothing special, just average.",NEGATIVE,0
+Couldn’t be happier.,POSITIVE,1
+Overhyped and underdelivered.,NEGATIVE,0
+Felt cheap and flimsy.,NEGATIVE,0
+"Absolutely fantastic quality, I'm very impressed!",POSITIVE,1
+Super intuitive and easy to use.,POSITIVE,1
+The hotel staff were rude and unprofessional. Terrible customer service.,NEGATIVE,0
+"Beautiful beaches, but strong winds.",MIXED,2
+The hotel staff were rude and unprofessional. Terrible customer service.,NEGATIVE,0
+The customer support was quick to respond and resolved my issue. Impressed!,POSITIVE,1
+I'm disappointed with the food at this restaurant. It was tasteless.,NEGATIVE,0
+"Absolutely fantastic quality, I'm very impressed!",POSITIVE,1
+Would not recommend to a friend.,NEGATIVE,0
+User interface is clean and simple.,POSITIVE,1
+"Clean streets, but bland food.",MIXED,2
+"The product works well, but shipping took too long.",MIXED,2
+"Helpful staff, but the check-in process was slow.",MIXED,2
+Better than expected.,POSITIVE,1
+The customer service at this store is top-notch.,POSITIVE,1
+Saved me a lot of time and effort.,POSITIVE,1
+"The location is perfect, but the service was mediocre.",MIXED,2
+Very pleased. Would buy again.,POSITIVE,1
+Amazing battery life.,POSITIVE,1
+Just had the best meal of my life!,POSITIVE,1
+The food at this restaurant was disappointing. Not worth the price.,NEGATIVE,0
+"Amazing product, exceeded my expectations!",POSITIVE,1
+"Efficient airport, but expensive food.",MIXED,2
+I love this product!,POSITIVE,1
+Works like a charm. Highly recommend.,POSITIVE,1
+"The product works well, but shipping took too long.",MIXED,2
+The service was terrible.,NEGATIVE,0
+I had a terrible experience with their customer support.,NEGATIVE,0
+"Colorful markets, but pushy vendors.",MIXED,2
+The customer service was terrible.,NEGATIVE,0
+I had a frustrating experience navigating through their website.,NEGATIVE,0
+Love it! Great value and performance.,POSITIVE,1
+Terrible experience overall.,NEGATIVE,0
+I can't stop listening to this song. It's incredible!,POSITIVE,1
+"Good selection of teas, but very pricey.",MIXED,2
+Solid purchase. Works as advertised.,POSITIVE,1
+"Decent, but could be better.",MIXED,2
+"Good Wi-Fi, but the bed was uncomfortable.",MIXED,2
+This playlist is perfect for relaxation. Soothing and calming!,POSITIVE,1
+"Breathtaking views, but steep paths.",MIXED,2
+"Great ambiance, but the service was slow.",MIXED,2
+"Great taste, but the portion size is too small.",MIXED,2
+I had an incredible experience at the theme park. So much fun!,POSITIVE,1
+My kids love it!,POSITIVE,1
+"Decent, but could be better.",MIXED,2
+Exactly what I needed. Reliable and sleek.,POSITIVE,1
+I had a terrible experience with their technical support. No resolution.,NEGATIVE,0
+Not worth the money at all.,NEGATIVE,0
+"Chocolates were divine, but too sweet.",MIXED,2
+The quality exceeded my expectations.,POSITIVE,1
+This book is thought-provoking and beautifully written. Highly recommended!,POSITIVE,1
+Stopped working after a week.,NEGATIVE,0
+Very responsive team.,POSITIVE,1
+No instructions were included.,NEGATIVE,0
+"Eco-friendly hotel, but thin walls.",MIXED,2
+This song always puts me in a nostalgic mood. It reminds me of good times.,POSITIVE,1
+"Fresh sushi, but slow service.",MIXED,2
+Does exactly what it says on the box.,POSITIVE,1
+I had a terrible experience with their delivery service. Late and unprofessional.,NEGATIVE,0
+The product I ordered never arrived. Terrible service.,NEGATIVE,0
+"Beautiful canals, but expensive hotels.",MIXED,2
+The food at this restaurant was awful. Never going back again!,NEGATIVE,0
+The product I ordered arrived damaged. Very disappointed with the packaging.,NEGATIVE,0
+Fast shipping and great support.,POSITIVE,1

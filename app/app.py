@@ -80,20 +80,27 @@ import streamlit as st
 from io import StringIO
 from datetime import datetime
 
-# 🔧 Config
+# 🔧 Config – adjust once here and it's reflected everywhere
 REGION = "us-east-1"
-ENDPOINT = "feedback-analyzer-endpoint"
-BUCKET = "your-unique-bucket-feedback-analyzer"
+ENDPOINT = "sagemaker-scikit-learn-2025-08-15-13-46-04-474"   # must match your deployed SageMaker endpoint
+BUCKET = "grey-customer-feedback-bucket"  # matches S3 bucket in your training/deployment
 LOG_GROUP = "/ai-feedback-analyzer/predictions"
 LOG_STREAM = "streamlit-app"
 
-# 🏷️ Sentiment Mapping
-label_map = {0: "negative", 1: "positive"}
+# 🏷️ Sentiment Mapping (for numeric predictions)
+label_map = {
+    0: "negative",
+    1: "positive",
+    2: "mixed"
+}
 
 # 🖼️ Page Setup
 st.set_page_config(page_title="AI Feedback Analyzer", layout="wide")
 st.title("🤖 AI Customer Feedback Analyzer")
-st.markdown("<h4 style='text-align: left;'>Powered by Amazon Comprehend, SageMaker, S3, CloudWatch, Streamlit UI</h4>", unsafe_allow_html=True)
+st.markdown(
+    "<h4 style='text-align: left;'>Powered by Amazon Comprehend, SageMaker, S3, CloudWatch, Streamlit UI</h4>",
+    unsafe_allow_html=True
+)
 
 # 🔌 AWS Clients
 rt = boto3.client("sagemaker-runtime", region_name=REGION)
@@ -120,12 +127,10 @@ def log_to_cloudwatch(message):
         logs.put_log_events(
             logGroupName=LOG_GROUP,
             logStreamName=LOG_STREAM,
-            logEvents=[
-                {
-                    'timestamp': ts,
-                    'message': json.dumps(message)
-                }
-            ]
+            logEvents=[{
+                'timestamp': ts,
+                'message': json.dumps(message)
+            }]
         )
     except logs.exceptions.InvalidSequenceTokenException as e:
         token = e.response['expectedSequenceToken']
@@ -133,12 +138,10 @@ def log_to_cloudwatch(message):
             logGroupName=LOG_GROUP,
             logStreamName=LOG_STREAM,
             sequenceToken=token,
-            logEvents=[
-                {
-                    'timestamp': ts,
-                    'message': json.dumps(message)
-                }
-            ]
+            logEvents=[{
+                'timestamp': ts,
+                'message': json.dumps(message)
+            }]
         )
 
 # 🔍 Inference Function
@@ -150,7 +153,19 @@ def predict(text: str):
         Body=payload
     )
     raw = json.loads(resp["Body"].read().decode("utf-8"))
-    sentiment = label_map.get(raw[0], "unknown")
+
+    # ✅ Handle both numeric IDs and string labels from endpoint
+    first_val = raw[0]
+    if isinstance(first_val, str):
+        try:
+            # if it's a numeric string like "2"
+            pred_class = int(first_val)
+            sentiment = label_map.get(pred_class, "mixed")
+        except ValueError:
+            # it's already a label string like "positive"
+            sentiment = first_val
+    else:
+        sentiment = label_map.get(int(first_val), "mixed")
 
     # 📡 Log prediction event
     log_to_cloudwatch({
@@ -189,10 +204,13 @@ with tab1:
                 df.to_csv(csv_buf, index=False)
                 if st.button("📦 Save to S3"):
                     key = "predictions/streamlit_predictions.csv"
-                    s3.put_object(Bucket=BUCKET, Key=key, Body=csv_buf.getvalue().encode("utf-8"))
+                    s3.put_object(
+                        Bucket=BUCKET,
+                        Key=key,
+                        Body=csv_buf.getvalue().encode("utf-8")
+                    )
                     st.success(f"Saved to `s3://{BUCKET}/{key}`")
 
-                    # Log save event
                     log_to_cloudwatch({
                         "event": "save_to_s3",
                         "bucket": BUCKET,

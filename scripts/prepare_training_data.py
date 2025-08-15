@@ -4,20 +4,44 @@ from sklearn.model_selection import train_test_split
 
 INPUT = "data/reviews_analysis.csv"
 TRAIN_OUT = "data/train_data.csv"
-VAL_OUT = "data/val.csv"   # set for model evaluation`
+VAL_OUT = "data/val.csv"   # set for model evaluation
 
-LABEL_MAP = {"POSITIVE":1, "NEGATIVE":0, "NEUTRAL":2, "MIXED":2}  # simple scheme
+# Three-class mapping: NEGATIVE=0, POSITIVE=1, MIXED=2
+LABEL_MAP = {
+    "NEGATIVE": 0,
+    "POSITIVE": 1,
+    "MIXED": 2
+}
 
 def main():
+    # Load & clean
     df = pd.read_csv(INPUT)
     df = df[["Text", "comprehend_sentiment"]].dropna()
-    df["label"] = df["comprehend_sentiment"].map(LABEL_MAP).fillna(2).astype(int)
+    df["label"] = df["comprehend_sentiment"].map(LABEL_MAP).astype(int)
 
-    # keep 3 classes but you can also map to binary if preferred
-    train, val = train_test_split(df, test_size=0.2, random_state=42, stratify=df["label"])
+    # Before split — see raw distribution
+    print("Class counts before split:")
+    print(df["comprehend_sentiment"].value_counts())
+
+    # Stratify so all classes keep their proportions
+    train, val = train_test_split(
+        df,
+        test_size=0.2,
+        random_state=42,
+        stratify=df["label"]
+    )
+
+    # Save
     train.to_csv(TRAIN_OUT, index=False)
     val.to_csv(VAL_OUT, index=False)
-    print(f"✅ Wrote {TRAIN_OUT}, {VAL_OUT}")
+
+    # After split — confirm distribution
+    print("\nClass counts after split — Train:")
+    print(train["comprehend_sentiment"].value_counts())
+    print("\nClass counts after split — Val:")
+    print(val["comprehend_sentiment"].value_counts())
+
+    print(f"\n✅ Wrote {TRAIN_OUT} and {VAL_OUT}")
 
 if __name__ == "__main__":
     main()

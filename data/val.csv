@@ -1,45 +1,66 @@
 Text,comprehend_sentiment,label
-Great gift idea.,POSITIVE,1
-Surprisingly good for the price!,POSITIVE,1
-Very pleased. Would buy again.,POSITIVE,1
-"Nothing special, just average.",NEGATIVE,0
-This book made me feel inspired. Highly recommended!,POSITIVE,1
-Their website is so user-friendly. Love it!,POSITIVE,1
-Terrible support and poor performance.,NEGATIVE,0
-This restaurant has the best food. I highly recommend it!,POSITIVE,1
-This album is a masterpiece. Every song is a work of art!,POSITIVE,1
-Horrible return policy.,NEGATIVE,0
+"Absolutely fantastic quality, I'm very impressed!",POSITIVE,1
 The customer service at this hotel was terrible. Avoid at all costs.,NEGATIVE,0
-Amazing battery life.,POSITIVE,1
-User interface is clean and simple.,POSITIVE,1
-Packaging was damaged when it arrived.,NEGATIVE,0
-This book kept me hooked from start to finish. A captivating read!,POSITIVE,1
-Performance dropped after a few uses.,NEGATIVE,0
-The quality of this product is subpar.,NEGATIVE,0
-Loved it! Would definitely buy again.,POSITIVE,1
-Solid purchase. Works as advertised.,POSITIVE,1
-The product I purchased broke within a week. Poor quality.,NEGATIVE,0
-The live concert was electrifying! The band's energy was contagious.,POSITIVE,1
-I'm extremely disappointed with the customer support. No resolution.,NEGATIVE,0
+"Charming cafe, but cramped seating.",MIXED,2
 Terrible experience overall.,NEGATIVE,0
-Cheaply made and unreliable.,NEGATIVE,0
-Horrible return policy.,NEGATIVE,0
-Very responsive team.,POSITIVE,1
-Excellent packaging and timely arrival.,POSITIVE,1
-This movie is a masterpiece! I was blown away.,POSITIVE,1
-Installation was a nightmare.,NEGATIVE,0
-Just had the most amazing vacation! I can't wait to go back.,POSITIVE,1
-Fast shipping and great support.,POSITIVE,1
-Their website is so user-friendly. Love it!,POSITIVE,1
+The quality exceeded my expectations.,POSITIVE,1
+"The store layout is great, but it was too crowded.",MIXED,2
+"Impressive visuals, but dull dialogue.",MIXED,2
+Surprisingly good for the price!,POSITIVE,1
+My kids love it!,POSITIVE,1
 This song always puts me in a nostalgic mood. It reminds me of good times.,POSITIVE,1
+The product I ordered never arrived. Poor customer service.,NEGATIVE,0
+This book kept me hooked from start to finish. A captivating read!,POSITIVE,1
+Horrible return policy.,NEGATIVE,0
+"Serene gardens, but limited restrooms.",MIXED,2
 Super intuitive and easy to use.,POSITIVE,1
 I'm so disappointed with their customer support.,NEGATIVE,0
-The product I ordered never arrived. Poor customer service.,NEGATIVE,0
-This book bored me to tears. I couldn't finish it.,NEGATIVE,0
-Does exactly what it says on the box.,POSITIVE,1
-The concert was absolutely breathtaking. Best performance ever!,POSITIVE,1
-Packaging was damaged when it arrived.,NEGATIVE,0
-I'm so disappointed with their customer support.,NEGATIVE,0
-I love this product!,POSITIVE,1
+"Modern decor, but cold lighting.",MIXED,2
 "Decent, but could be better.",MIXED,2
+Their website is so user-friendly. Love it!,POSITIVE,1
+Terrible support and poor performance.,NEGATIVE,0
+This album is a masterpiece. Every song is a work of art!,POSITIVE,1
+Amazing battery life.,POSITIVE,1
+This movie is a masterpiece! I was blown away.,POSITIVE,1
+The quality of this product is subpar.,NEGATIVE,0
+Doesn't live up to the hype.,NEGATIVE,0
+Just had the most amazing vacation! I can't wait to go back.,POSITIVE,1
+"Good variety of products, though prices are high.",MIXED,2
+"Nothing special, just average.",NEGATIVE,0
+Horrible return policy.,NEGATIVE,0
+Great gift idea.,POSITIVE,1
+User interface is clean and simple.,POSITIVE,1
+Wouldn't recommend. Flawed design.,NEGATIVE,0
+"The product works well, but shipping took too long.",MIXED,2
+"Impressive towers, but noisy surroundings.",MIXED,2
+The product I purchased broke within a week. Poor quality.,NEGATIVE,0
+I’m very disappointed with this purchase.,NEGATIVE,0
+Their website is so user-friendly. Love it!,POSITIVE,1
+"The beach was beautiful, but very crowded.",MIXED,2
+"Fast delivery, but the packaging was damaged.",MIXED,2
+"Great pastries, but small coffee cups.",MIXED,2
+"Strong acting, but weak plot.",MIXED,2
+"Lovely gelato, but long queue.",MIXED,2
+I'm genuinely impressed with the quality.,POSITIVE,1
+Absolutely loved it! Will recommend to everyone.,POSITIVE,1
+Loved it! Would definitely buy again.,POSITIVE,1
+Fast shipping and great support.,POSITIVE,1
+"Nice atmosphere, but the drinks were watered down.",MIXED,2
+I love this product!,POSITIVE,1
+This restaurant has the best food. I highly recommend it!,POSITIVE,1
+"Was skeptical, but it works great!",POSITIVE,1
+I'm in awe of this artist's talent. Their paintings are breathtaking!,POSITIVE,1
+Performance dropped after a few uses.,NEGATIVE,0
+This book made me feel inspired. Highly recommended!,POSITIVE,1
+I'm so disappointed with their customer support.,NEGATIVE,0
+"Good museum exhibits, but unfriendly staff.",MIXED,2
+Packaging was damaged when it arrived.,NEGATIVE,0
+"Fantastic soundtrack, but weak storyline.",MIXED,2
+"Friendly staff, though the wait time was long.",MIXED,2
+Terrible service and unhelpful staff.,NEGATIVE,0
+"Good deep-dish pizza, but long wait.",MIXED,2
 The food at this cafe exceeded my expectations. Absolutely delicious!,POSITIVE,1
+Cheaply made and unreliable.,NEGATIVE,0
+The live concert was electrifying! The band's energy was contagious.,POSITIVE,1
+This book bored me to tears. I couldn't finish it.,NEGATIVE,0
+I'm extremely disappointed with the customer support. No resolution.,NEGATIVE,0
