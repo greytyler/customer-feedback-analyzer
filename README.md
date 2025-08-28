@@ -83,7 +83,7 @@ This project demonstrates cloud-native ML deployment while also leveraging local
 -   Performed **EDA (Exploratory Data Analysis)** and **data cleaning**
     in **local Jupyter Notebook**.
 -   Saved cleaned dataset to `reviews.csv` and uploaded to **S3**.
-
+<img src="./screenshots/local notebook eda.png" width=800>
 
 ------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ This project demonstrates cloud-native ML deployment while also leveraging local
 -   Executed `prepare_training_data.py`.\
 -   Mapped **Comprehend sentiment → numeric labels**.\
 -   Generated `train_data.csv` and `val.csv` for SageMaker training.
-<img src="./screenshots/vs code training data.png">
+<img src="./screenshots/vs code training data.png" width=850>
 
 
 ------------------------------------------------------------------------
@@ -131,13 +131,13 @@ Inside **SageMaker Notebook Instance**:
     endpoint** and automatically model in new bucket.
     
 _Upload training data to S3:_
-<img src="./screenshots/notebook setup.png"/>
+<img src="./screenshots/notebook setup.png" width=850/>
 _Train model:_
-<img src="./screenshots/notebook training complete.png"/>
+<img src="./screenshots/notebook training complete.png" width=850/>
 _Deploy model:_
 <img src="./screenshots/notebook endpoint deployed.png">
 _Sagemaker saved model in S3 bucket_
-<img src="./screenshots/S3 sagemaker model.jpg">
+<img src="./screenshots/S3 sagemaker model.jpg" width=850>
 
 ------------------------------------------------------------------------
 
@@ -147,7 +147,7 @@ _Sagemaker saved model in S3 bucket_
 -   Used `feedback_samples.csv` for predictions.\
 -   Saved results locally & in **S3**.
 
-<img src ="./screenshots/S3 model_predictions.csv.jpg">
+<img src ="./screenshots/S3 model_predictions.csv.jpg" width=850>
 
 ------------------------------------------------------------------------
 
@@ -169,7 +169,7 @@ _Batch predictions_:
 </p>
 
 _Single prediction_:
-<img src ="./screenshots/single upload pos.png">
+<img src ="./screenshots/single upload pos.png" width=850>
 
 
 ------------------------------------------------------------------------
@@ -180,7 +180,7 @@ _Single prediction_:
     -   Loaded predictions from **S3**.
     -   Visualized using **pandas, seaborn, matplotlib**.
 
-<img src="./screenshots/notebook results.png">
+<img src="./screenshots/notebook results.png" width=850>
 
 ------------------------------------------------------------------------
 
@@ -189,7 +189,7 @@ _Single prediction_:
 -   Model inference logs automatically stored in **CloudWatch**.\
 -   Monitored request/response logs for debugging & auditing.
 
-<img src="./screenshots/cloudwatch logs.png">
+<img src="./screenshots/cloudwatch logs.png" width=900>
 
 ------------------------------------------------------------------------
 
@@ -298,6 +298,6 @@ or Mixed** with:\
 </a>
 
 
-###### 📲 Feel free to connect or drop feedback on [Aubrey T Dube LinkedIn](https://www.linkedin.com/in/aubrey-t-dube-194896288/) or [GitHub](https://github.com/greytyler)
+###### 📲 Feel free to connect or drop feedback on [Aubrey T Dube LinkedIn](https://www.linkedin.com/in/aubrey-t-dube-194896288/),  [GitHub](https://github.com/greytyler) [Email](https://)
 
 
