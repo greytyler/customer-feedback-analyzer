@@ -1,12 +1,13 @@
-# scripts/sagemaker_inference.py
+# Load Input from S3 → Run SageMaker Predictions → Save/Upload Results
+
 import boto3, json, os
 import pandas as pd
 import joblib
 
-# Config
+# --- Config ---
 REGION = "us-east-1"
 ENDPOINT = "sagemaker-scikit-learn-2025-08-15-13-46-04-474"
-INPUT = "data/feedback_samples.csv"
+INPUT_KEY = "input/feedback_samples.csv"   # S3 key for input file
 OUTPUT = "data/model_predictions.csv"
 BUCKET = "grey-customer-feedback-bucket"
 
@@ -62,13 +63,18 @@ def predict_remote(texts):
     return results
 
 def main():
-    # Load test data
-    df = pd.read_csv(INPUT)
+    # --- Load test data from S3 ---
+    print(f"☁️ Downloading s3://{BUCKET}/{INPUT_KEY} ...")
+    s3 = boto3.client("s3", region_name=REGION)
+    obj = s3.get_object(Bucket=BUCKET, Key=INPUT_KEY)
+    df = pd.read_csv(obj["Body"])
+
     if "text" not in df.columns:
-        raise ValueError(f"❌ '{INPUT}' must have a 'text' column.")
+        raise ValueError(f"❌ '{INPUT_KEY}' in s3://{BUCKET} must have a 'text' column.")
+
     texts = df["text"].fillna("").tolist()
 
-    # Try SageMaker endpoint, else local fallback
+    # --- Try SageMaker endpoint, else local fallback ---
     try:
         print(f"🔗 Sending {len(texts)} records to SageMaker endpoint '{ENDPOINT}'...")
         preds = predict_remote(texts)
@@ -81,14 +87,14 @@ def main():
         else:
             raise
 
-    # Save results locally
+    # --- Save results locally ---
     df["model_raw_result"] = preds
+    os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
     df.to_csv(OUTPUT, index=False)
     print(f"✅ Saved predictions → {OUTPUT}")
 
-    # Optionally push to S3
+    # --- Optionally push to S3 ---
     if UPLOAD_TO_S3:
-        s3 = boto3.client("s3", region_name=REGION)
         s3.upload_file(OUTPUT, BUCKET, "predictions/model_predictions.csv")
         print(f"☁️ Uploaded to s3://{BUCKET}/predictions/model_predictions.csv")
 
