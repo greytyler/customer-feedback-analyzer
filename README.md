@@ -13,7 +13,7 @@ This project demonstrates cloud-native ML deployment while also leveraging local
 ##### 📊 Architecture diagram
 
 
-<img src="./screenshots/architecture.jpg"/>
+<img src="./screenshots/architecture.jpg" width=500/>
 
 ------------------------------------------------------------------------
 
@@ -263,6 +263,7 @@ or Mixed** with:\
 - A **project** I have enjoyed in learning more about AWS AI/ML services.
 
 ------------------------------------------------------------------------
+##### 👨‍💻 Author
 
 ###### 🤗 My GitHub’s got commits. My blog’s got charisma 😏
 
