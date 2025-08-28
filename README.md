@@ -298,6 +298,6 @@ or Mixed** with:\
 </a>
 
 
-###### 📲 Feel free to connect or drop feedback on [Aubrey T Dube LinkedIn](https://www.linkedin.com/in/aubrey-t-dube-194896288/),  [GitHub](https://github.com/greytyler) [Email](https://)
+###### 📲 Feel free to connect or drop feedback on [Aubrey T Dube LinkedIn](https://www.linkedin.com/in/aubrey-t-dube-194896288/),  [GitHub](https://github.com/greytyler) or [Email](mailto:aubreytdube19@gmail.com)
 
 
