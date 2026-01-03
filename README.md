@@ -13,7 +13,7 @@ This project demonstrates cloud-native ML deployment while also leveraging local
 ##### 📊 Architecture diagram
 
 
-<img src="./screenshots/architecture.png" width=500/>
+<img src="./screenshots/architecture.png" width=800/>
 
 ------------------------------------------------------------------------
 
