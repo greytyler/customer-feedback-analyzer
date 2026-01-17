@@ -14,6 +14,7 @@ This project demonstrates cloud-native ML deployment while also leveraging local
 
 
 <img src="./screenshots/architecture.png" width=950/>
+<img src="./screenshots/architecture-aws.png" width=950/>
 
 ------------------------------------------------------------------------
 
